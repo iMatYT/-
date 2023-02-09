@@ -1,8 +1,11 @@
+<!DOCTYPE html>
 <html>
   <head>
-    <title>Hello World!</title>
+    <title>My GitHub Pages Website</title>
   </head>
   <body>
+    <h1>Welcome to My GitHub Pages Website</h1>
+    <p>Please fill out this survey:</p>
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScuzMpLXPae9CJPvqK04IAXvf5IQObV7BGc9vxYGDnnHhcDYg/viewform?embedded=true" width="640" height="1927" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
   </body>
 </html>
